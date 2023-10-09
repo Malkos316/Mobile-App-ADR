@@ -1,13 +1,15 @@
 001 - UI Framework
 
 Context:
--
+- Choose a UI Framework that works on multiple devices and has all functionality of requirements.
 
 Decision:
--
+- React JS
 
 Consequences:
--
+- Since it is a framework I've worked with before, less time needed to develop.
+- Re-usable components allows for a seamless look throughout the entire app.
+- Works with backend technology specifically.
 
 Status: 
 -Proposed
