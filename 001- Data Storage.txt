@@ -1,13 +1,17 @@
 001 - Data Storage
 
 Context:
--
+- I am creating an application that requires network connectivity at all times in order to function.
 
 Decision:
--
+- I use a web based service to store all data.
 
 Consequences:
--
+- Lower upfront cost at launch.
+- Scalable storage size.
+- Application requires network connectivity in order to function
+- Requires learning how to integrate web based storage
+- Privacy and security may be effected.
 
 Status: 
 -Proposed
