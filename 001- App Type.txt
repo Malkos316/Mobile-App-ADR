@@ -1,0 +1,16 @@
+001 - App Type
+
+Context:
+-Given a short list of requirement, we where asked to decide what type of application would best suit a food delivery application
+
+Decision:
+-My decision was that we would use a Hybrid App
+
+Consequences:
+-I did not choose a natve application because I believed that there would be a good market share of users that would prefer using application with a keyboard/mouse for ease of navigation when searching.
+-I did not choose a web application because I believed that there would be users that would prefer to use this application on the go.
+-There will be more device testing required because it is a hybrid app.
+-there will be a larger time requirement because the app will need to be accesible by many devices with different operating systems.
+
+Status: 
+-Proposed
