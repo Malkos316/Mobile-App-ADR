@@ -1,13 +1,19 @@
 001 - Frameworks and Technology Stacks
 
 Context:
--
+- Determine the technology stacks required for the current application requirements
 
 Decision:
--
+	- UI - Java, React, Next.js
+	- Services - Payment services, Security
+	- Database - AWS
+	- OS -Windows/macOS, Android/IOS
 
 Consequences:
--
+- Using frameworks I'm familiar with should reduce development time.
+- Having a web based Database works for this application since it needs to be connected to the internet to function anyways.
+- The app being able to run on both android and apple devices will make development more time consuming.
+- Using a payment API will reduce development costs.
 
 Status: 
 -Proposed
