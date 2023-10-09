@@ -1,4 +1,4 @@
-001 - UI Framework
+001 - [Doc Name]
 
 Context:
 -
@@ -10,4 +10,3 @@ Consequences:
 -
 
 Status: 
--Proposed
