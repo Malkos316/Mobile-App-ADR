@@ -1,13 +1,14 @@
 001 - Backend Language
 
 Context:
--
+- The application should run on both mobile and web accesible devices, and requires large amount of real-time functionality.
 
 Decision:
--
+- I will use Java as the backend language
 
 Consequences:
--
+- The majority of my knowledge with web application development is based off Java, therefore I will not have to spend time learning a new language.
+- Java has a large selection of frameworks and libraries to help wit the development of the application. 
 
 Status: 
 -Proposed
