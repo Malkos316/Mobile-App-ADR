@@ -1,13 +1,16 @@
 001 - Permissions
 
 Context:
--
+- The application needs to track the users location to provide accurate resteraunt reccomendations.
+- The application needs to monitor orders.
 
 Decision:
--
+- This application needs notification permission.
+- This application needs location services permission.
 
 Consequences:
--
+- There does not currently seem to be a need for any other permissions.
+- the current selection of permissions should allow for the base functionality of the application.
 
 Status: 
 -Proposed
